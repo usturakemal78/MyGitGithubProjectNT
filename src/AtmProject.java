@@ -10,6 +10,8 @@ public class AtmProject {
         //version4
         System.out.println("kemal branchi kodlari yazdi.");
         //version kml1
+        System.out.println("bir kısım kodlar");
+        //kml2
     }
 
 }
