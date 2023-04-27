@@ -17,6 +17,7 @@ public class AtmProject {
         //kml3
         System.out.println();
         //localde degiskiklik yaptim.
+        //remoteda degisisklik yaptim.
 
     }
 
